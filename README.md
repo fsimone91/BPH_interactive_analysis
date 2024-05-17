@@ -11,5 +11,5 @@ The selected use-case is the analysis of Ds->phi(mumu)pi decays, that serve as c
 # The analysis plaftorms
 The starting point is a prototypal CMS high throughput analysis platform, offloaded on local Tier-2: https://infn-cms-analysisfacility.readthedocs.io/en/latest/
 
-Within ICSC a new platform is being developed as documented here: https://icsc-spoke2-repo.github.io/HighRateAnalysis-WP5/sections/intro.html
+Within ICSC a new platform is being developed as documented here:  https://icsc-spoke2-repo.github.io/HighRateAnalysis-WP5/sections/intro.html
 
