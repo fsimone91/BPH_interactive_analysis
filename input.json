@@ -1,0 +1,18 @@
+[
+   {
+      "type": "data",
+      "skim": "dsphipi",
+      "root": ["/lustre/cms/store/user/fsimone/DoubleMuonLowMass/SkimPhiPi_UL2018_Run2018A_ModFilter_Mini_v1/210131_134428/0000/*.root"],
+      "treename": "Tree3Mu/ntuple",
+      "era" : "2018A",
+      "lumi": 3.67
+   },
+   {
+      "type": "mc",
+      "skim": "dsphipi",
+      "root": [" /lustre/cms/store/user/fsimone/DsToPhiPi_ToMuMu_MuFilter_TuneCP5_13TeV-pythia8-evtgen/SkimPhiPi_Summer20UL18_DsPhiPi_ModFilter_Mini_v0/210131_142127/0000/"],
+      "treename": "Tree3Mu/ntuple",
+      "era" : "2018",
+      "lumi": -99
+   },
+]
