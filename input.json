@@ -1,29 +1,52 @@
 {
-   "2018A": 
+   "2017B": 
      {
         "type": "data",
         "skim": "dsphipi",
-        "rootpath": "/cms/store/user/fsimone/DoubleMuonLowMass/SkimPhiPi_UL2018_Run2018A_ModFilter_Mini_v1/210131_134428/0000/",
+        "rootpath": "SkimPhiPi_UL2017_Run2017B_ModFilter_Mini_v2/210131_221715/0000/",
+        "files": "Tree_PhiPi_1.root Tree_PhiPi_2.root Tree_PhiPi_3.root Tree_PhiPi_4.root Tree_PhiPi_5.root Tree_PhiPi_6.root Tree_PhiPi_7.root Tree_PhiPi_8.root",
         "treename": "Tree3Mu/ntuple",
-        "era" : "2018A",
-        "lumi": 3.67
+        "era" : "2017B",
+        "lumi": 4.8
      },
-   "2018C": 
+   "2017C": 
      {
         "type": "data",
         "skim": "dsphipi",
-        "rootpath": "/cms/store/user/fsimone/DoubleMuonLowMass/SkimPhiPi_UL2018_Run2018C_ModFilter_Mini_v1/210131_134455/0000/",
+        "rootpath": "SkimPhiPi_UL2017_Run2017C_ModFilter_Mini_v2/210131_221737/0000/",
+        "files": "Tree_PhiPi_1.root Tree_PhiPi_10.root Tree_PhiPi_11.root Tree_PhiPi_12.root Tree_PhiPi_13.root Tree_PhiPi_14.root Tree_PhiPi_15.root Tree_PhiPi_16.root Tree_PhiPi_17.root Tree_PhiPi_18.root Tree_PhiPi_19.root Tree_PhiPi_2.root Tree_PhiPi_20.root Tree_PhiPi_21.root Tree_PhiPi_22.root Tree_PhiPi_23.root Tree_PhiPi_24.root Tree_PhiPi_25.root Tree_PhiPi_26.root Tree_PhiPi_27.root Tree_PhiPi_28.root Tree_PhiPi_29.root Tree_PhiPi_3.root Tree_PhiPi_30.root Tree_PhiPi_31.root Tree_PhiPi_32.root Tree_PhiPi_33.root Tree_PhiPi_34.root Tree_PhiPi_35.root Tree_PhiPi_36.root Tree_PhiPi_37.root Tree_PhiPi_38.root Tree_PhiPi_39.root Tree_PhiPi_4.root Tree_PhiPi_40.root Tree_PhiPi_41.root Tree_PhiPi_5.root Tree_PhiPi_6.root Tree_PhiPi_7.root Tree_PhiPi_8.root Tree_PhiPi_9.root",
         "treename": "Tree3Mu/ntuple",
-        "era" : "2018C",
-        "lumi": 31.8
+        "era" : "2017C",
+        "lumi": 9.6
      },
-   "Run2_MC": 
+   "2017D": 
      {
-        "type": "mc",
+        "type": "data",
         "skim": "dsphipi",
-        "rootpath": "/cms/store/user/fsimone/DsToPhiPi_ToMuMu_MuFilter_TuneCP5_13TeV-pythia8-evtgen/SkimPhiPi_Summer20UL18_DsPhiPi_ModFilter_Mini_v0/210131_142127/0000/",
+        "rootpath": "SkimPhiPi_UL2017_Run2017D_ModFilter_Mini_v2/210131_221800/0000/",
         "treename": "Tree3Mu/ntuple",
-        "era" : "2018",
-        "lumi": -99
+        "files": "Tree_PhiPi_1.root Tree_PhiPi_10.root Tree_PhiPi_11.root Tree_PhiPi_12.root Tree_PhiPi_13.root Tree_PhiPi_14.root Tree_PhiPi_15.root Tree_PhiPi_16.root Tree_PhiPi_2.root Tree_PhiPi_3.root Tree_PhiPi_4.root Tree_PhiPi_5.root Tree_PhiPi_6.root Tree_PhiPi_7.root Tree_PhiPi_8.root Tree_PhiPi_9.root",
+        "era" : "2017D",
+        "lumi": 4.2
+     },
+   "2017E": 
+     {
+        "type": "data",
+        "skim": "dsphipi",
+        "rootpath": "/SkimPhiPi_UL2017_Run2017E_ModFilter_Mini_v2/210131_221822/0000/",
+        "treename": "Tree3Mu/ntuple",
+        "files": "Tree_PhiPi_1-10.root Tree_PhiPi_1-16.root Tree_PhiPi_1-20.root Tree_PhiPi_12.root Tree_PhiPi_15.root Tree_PhiPi_18.root Tree_PhiPi_2.root Tree_PhiPi_8.root Tree_PhiPi_1-11.root Tree_PhiPi_1-17.root Tree_PhiPi_1-21.root Tree_PhiPi_1-3.root Tree_PhiPi_1-6.root Tree_PhiPi_1-9.root Tree_PhiPi_3.root Tree_PhiPi_9.root Tree_PhiPi_1-12.root Tree_PhiPi_1-18.root Tree_PhiPi_1-22.root Tree_PhiPi_13.root Tree_PhiPi_16.root Tree_PhiPi_1.root Tree_PhiPi_4.root Tree_PhiPi_1-13.root Tree_PhiPi_1-19.root Tree_PhiPi_1-23.root Tree_PhiPi_1-4.root Tree_PhiPi_1-7.root Tree_PhiPi_20.root Tree_PhiPi_5.root Tree_PhiPi_1-14.root Tree_PhiPi_1-1.root Tree_PhiPi_1-24.root Tree_PhiPi_14.root Tree_PhiPi_17.root Tree_PhiPi_21.root Tree_PhiPi_6.root Tree_PhiPi_1-15.root Tree_PhiPi_11.root Tree_PhiPi_1-2.root Tree_PhiPi_1-5.root Tree_PhiPi_1-8.root Tree_PhiPi_22.root Tree_PhiPi_7.root",
+        "era" : "2017E",
+        "lumi": 9.3
+     },
+   "2017F": 
+     {
+        "type": "data",
+        "skim": "dsphipi",
+        "rootpath": "/SkimPhiPi_UL2017_Run2017F_ModFilter_Mini_v2/210131_221844/0000/",
+        "treename": "Tree3Mu/ntuple",
+        "files": "Tree_PhiPi_10.root Tree_PhiPi_12.root Tree_PhiPi_14.root Tree_PhiPi_18.root Tree_PhiPi_21.root Tree_PhiPi_25.root Tree_PhiPi_29.root Tree_PhiPi_4.root Tree_PhiPi_8.root Tree_PhiPi_1-1.root Tree_PhiPi_1-3.root Tree_PhiPi_15.root Tree_PhiPi_19.root Tree_PhiPi_22.root Tree_PhiPi_26.root Tree_PhiPi_2.root Tree_PhiPi_5.root Tree_PhiPi_9.root Tree_PhiPi_11.root Tree_PhiPi_13.root Tree_PhiPi_16.root Tree_PhiPi_1.root Tree_PhiPi_23.root Tree_PhiPi_27.root Tree_PhiPi_30.root Tree_PhiPi_6.root Tree_PhiPi_1-2.root Tree_PhiPi_1-4.root Tree_PhiPi_17.root Tree_PhiPi_20.root Tree_PhiPi_24.root Tree_PhiPi_28.root Tree_PhiPi_3.root Tree_PhiPi_7.root",
+        "era" : "2017F",
+        "lumi": 10
      }
 }
